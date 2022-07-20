@@ -1,0 +1,15 @@
+{
+  "name": "complete-javascript-course-master",
+  "version": "1.0.0",
+  "description": "This repo contains starter files and final code for all sections and projects contained in the course.",
+  "main": "index.js",
+  "scripts": {
+    "start": "set UV_THREADPOOL_SIZE=1 & node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "env": "^0.0.2"
+  }
+}
